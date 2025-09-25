@@ -90,7 +90,7 @@ const Academics = () => {
       <div className="w-full flex items-center justify-center mt-24">
         <a
           download="Ajith_A_P.pdf"
-          href="./Sarath-k-resume.pdf"
+          href="./Ajith-A-P-resume.pdf"
           className="relative px-6 py-3 rounded-lg shadow-lg hover:shadow-xl transition duration-300 ease-in-out hover:from-sky-400 hover:to-emerald-300 flex items-center gap-2 group overflow-hidden bg-gradient-to-r from-emerald-300 to-sky-400 text-gray-900 font-semibold"
         >
           <span className="relative z-10">Resume</span>
